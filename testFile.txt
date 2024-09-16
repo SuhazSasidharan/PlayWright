@@ -1,2 +1,3 @@
 tested file
-suhaz
+SUHAZ
+Hello world
